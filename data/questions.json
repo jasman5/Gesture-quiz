@@ -1,0 +1,44 @@
+{
+  "Deep Learning": [
+    {
+      "q": "Which of the following best describes ResNet architecture?",
+      "options": [
+        "Uses 1×1 convolutions for dimensionality reduction",
+        "Employs parallel convolutional paths with multiple filter sizes",
+        "Introduces skip connections to solve vanishing gradient problem",
+        "Built entirely with 7×7 convolutions for deeper layers"
+      ],
+      "ans": "C"
+    },
+    {
+      "q": "What is the main purpose of Batch Normalization?",
+      "options": [
+        "To reduce model size and pruning connections",
+        "To normalize activations and stabilize training",
+        "To perform data augmentation efficiently",
+        "To combine features from multiple convolutional branches"
+      ],
+      "ans": "B"
+    },
+    {
+      "q": "Which of the following is a Regularization technique?",
+      "options": [
+        "ReLU Activation",
+        "Max Pooling",
+        "Dropout",
+        "Batch Normalization"
+      ],
+      "ans": "C"
+    },
+    {
+      "q": "What is the benefit of Mixed Precision Training?",
+      "options": [
+        "It increases model depth by doubling layers",
+        "It reduces memory usage and speeds up computation",
+        "It adds noise to gradients to improve generalization",
+        "It replaces 3×3 convolutions with 1×1 convolutions"
+      ],
+      "ans": "B"
+    }
+  ]
+}
