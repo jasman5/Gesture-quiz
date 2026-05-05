@@ -38,20 +38,19 @@ GAME/
 ## ▶️ How to Run
 pip install torch torchvision opencv-python numpy
 python main_quiz.py
-
-###💡 Use Case
+### 💡 Use Case
 This project demonstrates a touchless interaction system, useful for:
 Smart classrooms
 Accessibility applications
 Interactive AI systems
 
-###📌 Future Improvements
+### 📌 Future Improvements
 Improved UI design
 Gesture confidence visualization
 Leaderboard system
 Mobile deployment
 
-###👩‍💻 Authors
+### 👩‍💻 Authors
 Jasman Kaur
 Jivitesh Bansal
 Sanchit Luthra
