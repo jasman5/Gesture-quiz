@@ -54,6 +54,6 @@ Mobile deployment
 Jasman Kaur
 Jivitesh Bansal
 Sanchit Luthra
-![Demo](demo.gif)
 
-👉 Upload a short screen recording → convert to GIF → add here
+
+👉 Upload a short screen recording _
