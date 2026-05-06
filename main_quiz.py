@@ -152,7 +152,7 @@ for topic, questions in quiz.items():
             if cv2.waitKey(1) & 0xFF == 27:
                 break
 
-            if time.time() - start > 8:
+            if time.time() - start > 10:
                 selected = gesture
                 break
 

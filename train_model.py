@@ -44,4 +44,4 @@ for epoch in range(num_epochs):
         torch.save(model.state_dict(), "models/best_model.pth")
         print("✅ Saved new best model!")
 
-print(f"\n🎯 Training complete! Best validation accuracy: {best_acc:.3f}")
+print(f"\n🎯 Training complete, Best validation accuracy: {best_acc:.3f}")
